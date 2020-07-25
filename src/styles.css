@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+.my-bg-dark {
+  background-color: #00b5d3 !important;
+}
+
+a {
+    color: inherit !important;
+    text-decoration: underline;
+}
+
+.white {
+    color: #fff;
+}
+
+/* .db {
+    display: block !important;
+} */
+
+.right {
+    left: inherit !important;
+    right: 0 !important;
+}

@@ -1,0 +1,12 @@
+.navbar-brand {
+    padding: 0 !important;
+}
+
+.navbar-brand img {
+    width: 304px;
+    padding: 0;
+}
+
+nav a {
+    padding: 1em;
+}
